@@ -12,5 +12,5 @@ This scipt is written to download end sem results of Aryabhatta Knowledge Univer
 4. Edit regno, res_link, regno_le and pdf name variables.
 5. Run the script.
 
-The same script can be run for results of BEU, Patna as well, by just modifying
-the res_link variable.
+**The same script can be run for results of BEU, Patna as well, by just modifying
+the res_link variable.**
