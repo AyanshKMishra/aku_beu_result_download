@@ -3,7 +3,7 @@
 This scipt is written to download end sem results of Aryabhatta Knowledge University.
 
 ## Instructions
-1. Install the packages required for the script, namely (use pip or conda):
+1. Install the packages required for the script, namely (use pip or conda), its preferred to create a virtual environment:
 	1. pdfkit
 	2. PyPDF2
 	3. wkhtmltopdf
