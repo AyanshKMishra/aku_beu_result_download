@@ -12,10 +12,10 @@ Requires Python.
 2. Install wkhtmltopdf binaries from your package manager (windows users may use **[scoop](https://scoop.sh)**)
 3. If your package manager doesn't work, install [wkhtmltopdf](https://wkhtmltopdf.org/downloads.html) manually and add it to PATH.
 4. Edit regno, res_link, regno_le and pdf name variables.
- 1. regno: Starting registration no.
- 2. res_link: Get this link by accessing the result of any student in that specific exam and then removing the registration no. from the end of the link.
- 3. regno_le: starting registration no. of lateral entry students.
- 4. pdf: Enter the name for the output pdf file.
+  1. regno: Starting registration no.
+  2. res_link: Get this link by accessing the result of any student in that specific exam and then removing the registration no. from the end of the link.
+  3. regno_le: starting registration no. of lateral entry students.
+  4. pdf: Enter the name for the output pdf file.
 5. Edit the limits of the loop to fit the no. of students(for both regular and lateral entry students).
 6. Run the script.
 
